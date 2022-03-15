@@ -1,25 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee79064-f4a3-4116-8355-429543a73eb2" name="Default Changelist" comment="" />
+    <list default="true" id="4ee79064-f4a3-4116-8355-429543a73eb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/cydeo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/cydeo/ConfigCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/cydeo/DealerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/cydeo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/example/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/example/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/resources/static/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/resources/static/user/userinfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/resources/static/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/java/com/cydeo/controller/CarController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/java/com/cydeo/controller/MentorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/java/com/cydeo/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/java/com/cydeo/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/java/com/cydeo/model/Mentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/java/com/cydeo/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/resources/templates/car/car-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/resources/templates/mentors/mentor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-08-Spring-MVC-Modal/src/main/resources/templates/student/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/ConfigAny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/ConfigApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/CydeoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/FullTimeMentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/bean_annotation/PartTimeMentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/Agile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/ConfigCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/CydeoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-01-Core-IoC/src/main/java/com/cydeo/stereotype_annotation/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-03-Core-DI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-03-Core-DI/src/main/java/com/cydeo/ConfigApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-03-Core-DI/src/main/java/com/cydeo/CydeoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-03-Core-DI/src/main/java/com/cydeo/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-03-Core-DI/src/main/java/com/cydeo/OfficeHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-03-Core-DI/src/main/java/com/cydeo/Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/CydeoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/proxy/CommentNotificationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/proxy/CommentPushNotificationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/proxy/EmailCommentNotificationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/repository/DBCommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-04-Abstraction/src/main/java/com/cydeo/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-05-Core-BeanScoop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-05-Core-BeanScoop/src/main/java/com/cydeo/config/ProjectConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-06-SpringBoot-Demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="25REpAVunw7O0P0ORQQ1xFcMsZo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\spring-framework\Spring-08-Spring-MVC-Modal\src\main\resources\templates\mentors" />
+      <recent name="C:\spring-framework" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cydeo" />
+      <recent name="com.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cydeo.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="CydeoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.CydeoApp" />
+      <module name="spring-04-Abstraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CydeoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-06-SpringBoot-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.CydeoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-08-Spring-MVC-Modal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring06SpringBootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-06-SpringBoot-Demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.CydeoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring07SpringMvcControllerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-07-Spring-MVC-Controller" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ControllerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CydeoApplicationTests" />
+        <item itemvalue="Application.CydeoApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,10 +172,25 @@
       <option name="presentableId" value="Default" />
       <updated>1645481681081</updated>
       <workItem from="1645481682178" duration="8000" />
+      <workItem from="1645481720152" duration="147000" />
+      <workItem from="1645482016780" duration="19971000" />
+      <workItem from="1645888113509" duration="24897000" />
+      <workItem from="1647308947645" duration="1228000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/src/main/java/com/example/ControllerApplication.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
